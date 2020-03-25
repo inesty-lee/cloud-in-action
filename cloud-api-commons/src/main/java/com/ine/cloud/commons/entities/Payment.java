@@ -1,4 +1,4 @@
-package com.ine.cloud.entities;
+package com.ine.cloud.commons.entities;
 
 
 import lombok.AllArgsConstructor;

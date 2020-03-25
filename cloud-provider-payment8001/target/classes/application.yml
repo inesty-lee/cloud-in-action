@@ -13,4 +13,4 @@ spring:
 
 mybatis:
   mapper-locations: classpath:mapper/*.xml
-  type-aliases-package: com.ine.cloud.entities
+  type-aliases-package: com.ine.cloud.commons.entities

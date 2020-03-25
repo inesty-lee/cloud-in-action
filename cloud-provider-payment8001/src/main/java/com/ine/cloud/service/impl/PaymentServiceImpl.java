@@ -1,7 +1,7 @@
 package com.ine.cloud.service.impl;
 
+import com.ine.cloud.commons.entities.Payment;
 import com.ine.cloud.dao.PaymentDao;
-import com.ine.cloud.entities.Payment;
 import com.ine.cloud.service.PaymentService;
 import org.springframework.stereotype.Service;
 

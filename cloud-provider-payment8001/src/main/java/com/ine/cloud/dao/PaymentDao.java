@@ -1,6 +1,6 @@
 package com.ine.cloud.dao;
 
-import com.ine.cloud.entities.Payment;
+import com.ine.cloud.commons.entities.Payment;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 
